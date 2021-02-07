@@ -2,6 +2,8 @@ This is a [Next.js Crash Course 2021](https://nextjs.org/) project bootstrapped 
 
 Tutorial video: [https://www.youtube.com/watch?v=mTz0GXj8NN0](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 
+Code from original video: [https://github.com/bradtraversy/next-crash-course](https://github.com/bradtraversy/next-crash-course)
+
 ## Getting Started
 
 First, run the development server:
